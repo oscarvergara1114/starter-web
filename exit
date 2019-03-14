@@ -1,0 +1,104 @@
+[33mcommit a679b22f187b063ca1db54e28942488ca13dfc91[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Oscar Vergara <overgara@centrolab.com.co>
+Date:   Thu Mar 14 09:54:49 2019 -0500
+
+    Deleting level1 and all children
+
+[33mcommit ba4efa61549eac2f3338b89ffd0a91defcf4fc39[m
+Author: Oscar Vergara <overgara@centrolab.com.co>
+Date:   Thu Mar 14 09:52:18 2019 -0500
+
+    deleted hipster.txt file
+
+[33mcommit 4d30f455f176e5d4ea6b6a490ab8cd9ecf0f1d71[m
+Author: Oscar Vergara <overgara@centrolab.com.co>
+Date:   Wed Mar 13 11:54:33 2019 -0500
+
+    Deleting new file
+
+[33mcommit 74649d5d92af3d7d34275336481d274ed949d1ef[m
+Author: Oscar Vergara <overgara@centrolab.com.co>
+Date:   Wed Mar 13 11:52:28 2019 -0500
+
+    edit
+
+[33mcommit d1d43c394a13e31440a911052e85a42008f22382[m
+Author: Oscar Vergara <overgara@centrolab.com.co>
+Date:   Wed Mar 13 11:33:56 2019 -0500
+
+    moving level 2 file back to level 3
+
+[33mcommit 4ec0107d34d8f39d6ff9af69efe19cd04dee559b[m
+Author: Oscar Vergara <overgara@centrolab.com.co>
+Date:   Wed Mar 13 11:31:49 2019 -0500
+
+    moving file from level 2 to level 3
+
+[33mcommit 3f53d0e43073748702f3990c30b8575a8590b50b[m
+Author: Oscar Vergara <overgara@centrolab.com.co>
+Date:   Wed Mar 13 11:20:08 2019 -0500
+
+    renaming level2 file
+
+[33mcommit 7935786a6bba60ae14da0c514a0abc8dc13ad2e3[m
+Author: Oscar Vergara <overgara@centrolab.com.co>
+Date:   Wed Mar 13 11:17:40 2019 -0500
+
+    renaming level3 file
+
+[33mcommit 732a3e84bd21aa5ef827d26a62381d7025d0303a[m
+Author: Oscar Vergara <overgara@centrolab.com.co>
+Date:   Tue Mar 12 14:43:11 2019 -0500
+
+    Adding several files recursovely
+
+[33mcommit f9d4232e8d65ab2001788655a039189d305ca25f[m
+Author: Oscar Vergara <overgara@centrolab.com.co>
+Date:   Thu Mar 7 17:25:20 2019 -0500
+
+    More ipsum for hipster
+
+[33mcommit 547e2440c6db42e16520cf842ca4e1e07595ed17[m
+Author: Oscar Vergara <overgara@centrolab.com.co>
+Date:   Thu Mar 7 17:22:20 2019 -0500
+
+    Adding new file
+
+[33mcommit 6503e34672b8fe71ef6ba060855d5372103ff7d0[m
+Author: Oscar Vergara <overgara@centrolab.com.co>
+Date:   Thu Mar 7 15:54:45 2019 -0500
+
+    Adding more ipsum text
+
+[33mcommit 7b68b5dde71016a5cccc1b342b1c17032b60c72f[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Oscar Vergara <overgara@centrolab.com.co>
+Date:   Thu Mar 7 15:28:13 2019 -0500
+
+    My first commit
+
+[33mcommit 4beb7f097b54ab7cf08daf17972c3ab14432ae24[m
+Merge: 5c05047 e73f914
+Author: Jason Taylor <jason@jasongtaylor.com>
+Date:   Wed Sep 2 02:39:19 2015 -0400
+
+    Merge pull request #6 from jasongtaylor/feature-readme
+    
+    Adding README file
+
+[33mcommit e73f9147e78331b2ea746dc43de5a44953766a76[m
+Author: Jason Taylor <jason@git.training>
+Date:   Wed Sep 2 02:25:18 2015 -0400
+
+    Adding Purpose section to README
+
+[33mcommit 34f563b40c4c1519026d2e881c75e97728c45502[m
+Author: Jason Taylor <jason@git.training>
+Date:   Wed Sep 2 02:06:05 2015 -0400
+
+    Adding README file
+
+[33mcommit 5c05047e53ecd0913a6f10000014d38829aaecdc[m
+Author: Jason Taylor <jason@screencasts.pro>
+Date:   Thu Sep 11 22:14:19 2014 -0400
+
+    Copying files from initializr project zip file and then creating simple.html as basis for super simple pages
