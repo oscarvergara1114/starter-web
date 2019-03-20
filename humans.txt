@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+	Oscar Vergara	overgara@centrolab.com.co	@oscarvergara1114
 
 # THANKS
 
