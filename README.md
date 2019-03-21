@@ -21,4 +21,4 @@ Please fork this repository and then issue pull requests review.
 
 ### Copyright
 
-2019 Oscar Vergara
+2019 Oscar Vergara. All rights reserver.
